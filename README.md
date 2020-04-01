@@ -12,6 +12,7 @@ Efforts in this work:
 (1) .Net Winform program can invoke UWP packages.
 (2) UWP OCR function as sample.
 (3) Change SoftwareBitmap to Bitmap and Bitmap to SoftwareBitmap as well.
+(4) Use Clipboard (Win + Shift + S on Windows 10) to fetch Images to OCR.
 ----------------------------------------------------------------------------------------
 
 :)
