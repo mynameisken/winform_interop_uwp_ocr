@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "myO/MaYvgG26NxuqK2oBVqq5HU/ImldvhA/yPpNqbSwGNmOchMv6Jebsn1Kt60jvledXKlrQflpaoxZ3Bie8ng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cn_gj\\Desktop\\Winform_Interop_UWP_OCR\\Winform_Interop_UWP_OCR\\Winform_Interop_UWP_OCR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cn_gj\\.nuget\\packages\\microsoft.windows.sdk.contracts\\10.0.18362.2005\\microsoft.windows.sdk.contracts.10.0.18362.2005.nupkg.sha512",
+    "C:\\Users\\cn_gj\\.nuget\\packages\\system.runtime.windowsruntime\\4.6.0\\system.runtime.windowsruntime.4.6.0.nupkg.sha512",
+    "C:\\Users\\cn_gj\\.nuget\\packages\\system.runtime.windowsruntime.ui.xaml\\4.6.0\\system.runtime.windowsruntime.ui.xaml.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

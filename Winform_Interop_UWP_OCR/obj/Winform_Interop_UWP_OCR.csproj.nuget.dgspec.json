@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\cn_gj\\Desktop\\Winform_Interop_UWP_OCR\\Winform_Interop_UWP_OCR\\Winform_Interop_UWP_OCR.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\cn_gj\\Desktop\\Winform_Interop_UWP_OCR\\Winform_Interop_UWP_OCR\\Winform_Interop_UWP_OCR.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cn_gj\\Desktop\\Winform_Interop_UWP_OCR\\Winform_Interop_UWP_OCR\\Winform_Interop_UWP_OCR.csproj",
+        "projectName": "Winform_Interop_UWP_OCR",
+        "projectPath": "C:\\Users\\cn_gj\\Desktop\\Winform_Interop_UWP_OCR\\Winform_Interop_UWP_OCR\\Winform_Interop_UWP_OCR.csproj",
+        "packagesPath": "C:\\Users\\cn_gj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cn_gj\\Desktop\\Winform_Interop_UWP_OCR\\Winform_Interop_UWP_OCR\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\cn_gj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "dependencies": {
+            "Microsoft.Windows.SDK.Contracts": {
+              "target": "Package",
+              "version": "[10.0.18362.2005, )"
+            }
+          },
+          "imports": [
+            "uap10.0.18362"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

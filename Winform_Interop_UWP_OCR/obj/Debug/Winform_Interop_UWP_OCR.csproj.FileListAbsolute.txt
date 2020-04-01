@@ -1,0 +1,16 @@
+C:\Users\cn_gj\Desktop\Winform_Interop_UWP_OCR\Winform_Interop_UWP_OCR\bin\Debug\TestBot.exe.config
+C:\Users\cn_gj\Desktop\Winform_Interop_UWP_OCR\Winform_Interop_UWP_OCR\bin\Debug\TestBot.exe
+C:\Users\cn_gj\Desktop\Winform_Interop_UWP_OCR\Winform_Interop_UWP_OCR\bin\Debug\TestBot.pdb
+C:\Users\cn_gj\Desktop\Winform_Interop_UWP_OCR\Winform_Interop_UWP_OCR\bin\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\cn_gj\Desktop\Winform_Interop_UWP_OCR\Winform_Interop_UWP_OCR\bin\Debug\Windows.Foundation.FoundationContract.winmd
+C:\Users\cn_gj\Desktop\Winform_Interop_UWP_OCR\Winform_Interop_UWP_OCR\bin\Debug\Windows.Foundation.UniversalApiContract.winmd
+C:\Users\cn_gj\Desktop\Winform_Interop_UWP_OCR\Winform_Interop_UWP_OCR\bin\Debug\windows.winmd
+C:\Users\cn_gj\Desktop\Winform_Interop_UWP_OCR\Winform_Interop_UWP_OCR\bin\Debug\zh-Hans\System.Runtime.WindowsRuntime.resources.dll
+C:\Users\cn_gj\Desktop\Winform_Interop_UWP_OCR\Winform_Interop_UWP_OCR\obj\Debug\Winform_Interop_UWP_OCR.csprojAssemblyReference.cache
+C:\Users\cn_gj\Desktop\Winform_Interop_UWP_OCR\Winform_Interop_UWP_OCR\obj\Debug\Winform_Interop_UWP_OCR.FormMain.resources
+C:\Users\cn_gj\Desktop\Winform_Interop_UWP_OCR\Winform_Interop_UWP_OCR\obj\Debug\TestBot.Properties.Resources.resources
+C:\Users\cn_gj\Desktop\Winform_Interop_UWP_OCR\Winform_Interop_UWP_OCR\obj\Debug\Winform_Interop_UWP_OCR.csproj.GenerateResource.cache
+C:\Users\cn_gj\Desktop\Winform_Interop_UWP_OCR\Winform_Interop_UWP_OCR\obj\Debug\Winform_Interop_UWP_OCR.csproj.CoreCompileInputs.cache
+C:\Users\cn_gj\Desktop\Winform_Interop_UWP_OCR\Winform_Interop_UWP_OCR\obj\Debug\Winform_Interop_UWP_OCR.csproj.CopyComplete
+C:\Users\cn_gj\Desktop\Winform_Interop_UWP_OCR\Winform_Interop_UWP_OCR\obj\Debug\TestBot.exe
+C:\Users\cn_gj\Desktop\Winform_Interop_UWP_OCR\Winform_Interop_UWP_OCR\obj\Debug\TestBot.pdb
